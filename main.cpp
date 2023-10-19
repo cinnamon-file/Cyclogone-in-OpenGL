@@ -1,10 +1,6 @@
-//
-//  main.cpp
-//  sinc
-//
-//  Created by Abel Gomes on 23/03/2020.
-//  Copyright © 2020 Abel Gomes. All rights reserved.
-//
+/* - In geometry, a cyclogon is the curve traced by a vertex of a regular polygon that rolls
+without slipping along a straight line. In the limit, as the number of sides increases to infinity,
+the cyclogon becomes a cycloid. */
 
 // Include standard headers
 #include <stdio.h>
